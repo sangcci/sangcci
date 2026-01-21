@@ -1,8 +1,4 @@
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm aspiring to become a backend developer!<br><br>- 📚 Completed Programmers Backend Development Bootcamp 1st<br>- 🌱 Passionate about testing methodologies and concurrent processing<br>- 🔍 Always eager to learn new technologies and best practices</p>
+<h2 align="left">👩‍💻  About Me</h3>
 
 ###
 
@@ -50,3 +46,10 @@
 </div>
 
 ###
+
+<h3 align="left">🖋 Educations</h3>
+
+###
+
+- 📚 프로그래머스 Backend 부트캠프 전공자 1기 수료
+- 🎓 명지대학교 정보통신공학과 학사
